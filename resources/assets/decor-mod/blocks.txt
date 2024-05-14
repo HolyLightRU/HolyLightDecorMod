@@ -1,0 +1,9 @@
+{
+name: "Генератор";
+model_path: "models/decor/Generator.obj";
+texture_path: "models/decor/textures/Generator.png";
+light: "7";
+icons: "generator";
+creativeTab: "2";
+collide: true;
+}
