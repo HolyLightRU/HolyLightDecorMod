@@ -1,0 +1,2 @@
+# HolyLightDecorMod
+Special for CraftOut
